@@ -1,0 +1,54 @@
+.header{
+    width: 100%;
+    height: 54px;
+    background-color: rgba(0, 0, 0, .7);
+    position: relative;
+    
+}
+.header2{
+    width: 100%;
+    height: 54px;
+    background-color: rgba(0, 0, 0, .7);
+    ;
+    position: sticky;
+    top: 0;
+}
+body{
+    margin: 0;
+}
+.under{
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+}
+.container{
+    width: 100%;
+    margin-top: -16px;
+}
+.logo-size{
+    width: 108px;
+    margin-left: 44px;
+    margin-top: 15px;
+    float: left;
+}
+.logo-size2 {
+    width: 73px;
+    margin-left: 10px;
+    margin-top: 15px;
+    float: left;
+}
+.white-text{
+    color: #fff;
+}
+ul{
+    float: left;
+    list-style-type: none;
+    display: flex;
+    gap: 30px;;
+}
+li{
+    padding-top: 19px;
+}
+.space{
+    margin-left: 85px;
+}
